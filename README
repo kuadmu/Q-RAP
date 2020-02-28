@@ -1,0 +1,15 @@
+This is the data sample for 'Harvesting Shopping Advice: Neural Question Generation from Multiple Information Sources in E-commerce'.
+
+Each file contains 50 lines, and each line specifies an instance for generating purchase-related questions.
+Q: questions.txt
+R: customer_reviews.txt
+A: interest_aspects.txt
+P: product_properties.txt
+
+Note that:
+1. one instance matches 4-17 customer reviews, separated by tab;
+2. one instance matches at least one interest aspects, separated by space;  
+3. one instance matches multiple product properties, separated by space;
+4. all numbers are transformed into the tag [NUM].
+
+The complete Q-RAP dataset will be released soon...
