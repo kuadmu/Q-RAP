@@ -1,4 +1,4 @@
-This is the data sample for 'Harvest Shopping Advice: Neural Question Generation from Multiple Information Sources in E-commerce'.
+This is the data sample (in Chinese) for 'Harvest Shopping Advice: Neural Question Generation from Multiple Information Sources in E-commerce'.
 
 Each file contains 20 lines, and each line specifies an instance for generating a purchase-related question.
 Q: question.txt
