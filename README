@@ -1,6 +1,6 @@
 This is the data sample (in Chinese) for 'Harvest Shopping Advice: Neural Question Generation from Multiple Information Sources in E-commerce'.
 
-Each file contains 20 lines, and each line specifies an instance for generating a purchase-related question.
+Each file contains 6,517 lines, and each line specifies an instance for generating a purchase-related question.
 Q: questions.txt
 R: customer_reviews.txt
 A: user_interested_aspects.txt
@@ -11,5 +11,3 @@ Note that:
 2. one instance matches at least one user-interested aspects, separated by space;  
 3. one instance matches multiple product properties, separated by space;
 4. all numbers are transformed into the tag [NUM].
-
-The complete Q-RAP dataset will be released soon...
